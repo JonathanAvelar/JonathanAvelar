@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack em formação`**
 
-Me chamo Jonathan, tenho 30 anos e sou natural de Belo Horizonte, MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Tenho conhecimento em C#, ASP.NET Core, SQL Server, HTML, CSS e JavaScript.
+Me chamo Jonathan, tenho 31 anos e sou natural de Belo Horizonte, MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Tenho conhecimento em C#, ASP.NET Core, SQL Server, HTML, CSS e JavaScript.
 
 Sou apaixonado por tecnologia e movido pela curiosidade. Estou sempre em busca de novos aprendizados, explorando diferentes linguagens, ferramentas e boas práticas de desenvolvimento. Acredito que o estudo constante e a prática são essenciais para minha evolução como desenvolvedor, e estou determinado a crescer e contribuir com soluções eficientes e de qualidade na área de tecnologia.
 
